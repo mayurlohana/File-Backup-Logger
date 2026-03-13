@@ -1,12 +1,12 @@
 #File Backup Logger
 
 ## Description
-A program that backs up files and directories with versioning, logs the operations locally, and includes a GUI. Alternatively, the program can be written in C++ if you're more comfortable working with it.
+A program that backs up files and directories with versioning, logs the operations locally, and includes a GUI. Alternatively, the program can be written in python if you're more comfortable working with it.
 
 ## Getting Started
 1. Clone this repository or download the files.
 2. Install required packages if necessary.
-3. Run the `main.py` or `main.cpp` file to get started.
+3. Run the `main.py` file to get started.
 
 Keep in mind that the code must be written in OOP.
 
